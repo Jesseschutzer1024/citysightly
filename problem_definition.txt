@@ -1,0 +1,8 @@
+User flow:
+
+Citizen:
+Marks city problems
+	- potholes, disfunctional equipment, roadkill, dangerous things, etc.
+
+City/Helping Citizen:
+Solved?
