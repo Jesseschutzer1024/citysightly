@@ -2,7 +2,25 @@ User flow:
 
 Citizen:
 Marks city problems
+	- timestamp
+	- urgency/priority
 	- potholes, disfunctional equipment, roadkill, dangerous things, etc.
 
 City/Helping Citizen:
 Solved?
+
+To use:
+Front end:
+https://wiki.openstreetmap.org/wiki/OpenLayers_Simple_Example
+
+Backend:
+- node.js backend?
+- some sql backend
+
+Website:
+Login
+User
+Happy News page
+Updates by city area
+Admin
+Driving/walking/biking mode
